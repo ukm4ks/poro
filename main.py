@@ -4,7 +4,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 TOKEN = '7226136496:AAGPQ-xThvg39C7o8miMEKwMhpQBFngO9rw'
 bot = telebot.TeleBot(TOKEN)
 
-WEB_APP_URL = 'https://google.com'
+WEB_APP_URL = 'https://ukm4ks.github.io/poro/'
 
 @bot.message_handler(commands=['start'])
 def start(message):
