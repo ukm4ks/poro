@@ -1,0 +1,1 @@
+def sperma (ponos):
